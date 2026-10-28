@@ -64,6 +64,45 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Anar is a company surfaced as a portfolio company of accel and added to the API Evangelist network as a stub for enrichment. Sector: mobile. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: accel — https://anar.biz/
+Anar was a B2B marketplace and business networking mobile app for small businesses, sellers, and buyers in India, operating from 2020 to 2023 before shutting down. At its peak it reported 1.6M+ registered businesses, 450k+ sellers, 1.1M+ buyers, and 7M+ business enquiries processed across 6.6M+ listed products. It raised roughly $6.5M from Accel and Elevation Capital plus angel investors. Added to the API Evangelist network as an Accel portfolio company; no public developer platform, API, SDK, or documentation was ever published, and the service is now defunct.
+
+**Areas:** Company · Mobile · Marketplace · B2B · E-Commerce · India · Small Business · Defunct
+
+## Anar on APIs.io (historical record)
+
+Everything profiled for Anar is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/anar/](https://apis.io/providers/anar/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Anar Domain Security](https://apis.io/security/anar/anar-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://anar.biz/)
+- [Blog](https://medium.com/anar-business)
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Anar: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/anar/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
